@@ -1,6 +1,6 @@
-#React iTunes Search
+# React iTunes Search
 
-##Getting Started
+## Getting Started
 
 * Fork and clone the repository
 * Run `npm install` to install dependencies
